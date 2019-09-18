@@ -1,0 +1,6 @@
+C:\Eleven Fifty Academy\0_Gold Badge\Fundementals\CSharpFundementals\05_Classes\bin\Debug\05_Classes.dll
+C:\Eleven Fifty Academy\0_Gold Badge\Fundementals\CSharpFundementals\05_Classes\bin\Debug\05_Classes.pdb
+C:\Eleven Fifty Academy\0_Gold Badge\Fundementals\CSharpFundementals\05_Classes\obj\Debug\05_Classes.csprojAssemblyReference.cache
+C:\Eleven Fifty Academy\0_Gold Badge\Fundementals\CSharpFundementals\05_Classes\obj\Debug\05_Classes.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\0_Gold Badge\Fundementals\CSharpFundementals\05_Classes\obj\Debug\05_Classes.dll
+C:\Eleven Fifty Academy\0_Gold Badge\Fundementals\CSharpFundementals\05_Classes\obj\Debug\05_Classes.pdb

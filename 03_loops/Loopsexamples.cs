@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace _03_loops
 {
     [TestClass]
-    public class UnitTest1
+    public class Loopsexamples
     {
         [TestMethod]
         public void ForLoops()
